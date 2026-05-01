@@ -1,1 +1,7 @@
 first line
+
+
+newly added line
+
+
+2nd newly added line
